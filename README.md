@@ -6,7 +6,9 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 - 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
+- 
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works.
+
 - 🥷🏾 💻 Programming Ninja, slicing through bugs and deadlines on cross-platform mobile apps and websites.
 
 
@@ -14,12 +16,13 @@
 
 <p align="left"> <a href="https://twitter.com/abkgami" target="blank"><img src="https://img.shields.io/twitter/follow/abkgami?logo=twitter&style=for-the-badge" alt="abkgami" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> Connect with me 
+<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <p align="left">
 <a href="https://twitter.com/abkgami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abkgami" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+  ## Language and Tools 🛠️
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,6 +55,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abkgami&show_icons=true&locale=en" alt="abkgami" /></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abk-gami" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkgami" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkgami&" alt="abkgami" /></p>
