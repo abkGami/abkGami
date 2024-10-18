@@ -9,9 +9,6 @@
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works.
 - 🥷🏾 💻 Programming Ninja, slicing through bugs and deadlines on cross-platform mobile apps and websites.
 
-<br/>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abkgami" alt="abkgami" /> </p>
-
 <p align="left"> <a href="https://twitter.com/abkgami" target="blank"><img src="https://img.shields.io/twitter/follow/abkgami?logo=twitter&style=for-the-badge" alt="abkgami" /></a> </p>
 
 <h2 align="left"> Connect with me 
@@ -49,6 +46,8 @@
 </p>
 
   ## My GitHub Stats 📊
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abkgami" alt="abkgami" /> </p>
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkgami&show_icons=true&locale=en&layout=compact" alt="abkgami" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abkgami&show_icons=true&locale=en" alt="abkgami" /></p>
