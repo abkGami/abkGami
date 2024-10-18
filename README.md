@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
 
-  <img align="right" src="./assets/1936.gif" alt="anime" /> 
+  <img align="left" src="./assets/1936.gif" alt="anime" /> 
 
  ## About Me 💬
 
