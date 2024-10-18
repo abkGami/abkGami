@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
 
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
+- 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
+- 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works  
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abkgami" alt="abkgami" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abkgami" target="blank"><img src="https://img.shields.io/twitter/follow/abkgami?logo=twitter&style=for-the-badge" alt="abkgami" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
