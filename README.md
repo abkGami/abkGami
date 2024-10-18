@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+ ## About Me 💬
 
 - 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works.
