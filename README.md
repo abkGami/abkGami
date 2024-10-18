@@ -1,9 +1,10 @@
 <h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm < Yahaya Abubakar/ > </h1>
 <h3 align="center">A passionate frontend developer from "Far-away Land" ✨</h3>
+  
+  <img align="center" src="./assets/1936.gif" alt="anime" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
 
-  <img align="left" src="./assets/1936.gif" alt="anime" /> 
 
  ## About Me 💬
 
