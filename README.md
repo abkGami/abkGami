@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
 
+  <img src="./assets/1936.gif" alt="anime" /> 
+
  ## About Me 💬
 
 - 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works.
 - 🥷🏾 💻 Programming Ninja, slicing through bugs and deadlines on cross-platform mobile apps and websites.
 
-  <img src="./assets/1936.gif" alt="anime" width="100" height="100"/> 
 
 <p align="left"> <a href="https://twitter.com/abkgami" target="blank"><img src="https://img.shields.io/twitter/follow/abkgami?logo=twitter&style=for-the-badge" alt="abkgami" /></a> </p>
 
