@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm < Yahaya Abubakar/ >! </h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm < Yahaya Abubakar/ > </h1>
 <h3 align="center">A passionate frontend developer from "Far-away Land" ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat" alt="abkgami" /> </p>
@@ -47,8 +47,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
+  ## My GitHub Stats 📊
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkgami&show_icons=true&locale=en&layout=compact" alt="abkgami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkgami&show_icons=true&locale=en" alt="abkgami" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abkgami&show_icons=true&locale=en" alt="abkgami" /></p>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abk-gami" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkgami&" alt="abkgami" /></p>
