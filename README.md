@@ -1,8 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-
-<!-- **abk-gami/abk-gami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" alt="cover" />
 </div>
@@ -13,7 +8,10 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
   
 </p>
-<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, the official errand-boy at     <a href="https://twitter.com/gami_hq">Gami.</a>
+<!-- <div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, the official errand-boy at     <a href="https://twitter.com/gami_hq">Gami.</a>
+ Thank You for taking the time to view my GitHub Profile :smile: 
+</div> -->
+<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, 
  Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
