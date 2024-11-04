@@ -9,6 +9,7 @@
 
  ## About Me 💬
 
+- 👨‍💻 Front-End Developer using React.js for websites, and React Native for mobile app 
 - 💻 Programming Ninja, slicing through bugs and deadlines on cross-platform mobile apps and websites.
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works.
 - 👨‍💻 All of my projects are available at [https://abks-portfolio.vercel.app/](https://abks-portfolio.vercel.app/)
