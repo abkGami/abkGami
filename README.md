@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ogofe/ogofe/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abkgami/abkgami/output/github-contribution-grid-snake-dark.svg" />
 
 
   ## My GitHub Stats 📊
