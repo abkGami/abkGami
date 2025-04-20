@@ -52,7 +52,6 @@
 </p>
 
 <img alt="skadoosh" src="https://raw.githubusercontent.com/abkGami/abkGami/output/github-contribution-grid-snake-dark.svg" />
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ogofe/ogofe/output/github-contribution-grid-snake-dark.svg" />
 
 
 
