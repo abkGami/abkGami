@@ -51,7 +51,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
-<img alt="skadoosh" src="https://raw.githubusercontent.com/abkGami/abkGami/output/github-contribution-grid-snake-dark.svg" />
 
 
 
