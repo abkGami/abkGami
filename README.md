@@ -50,13 +50,3 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
-
-
-
-
-  ## My GitHub Stats 📊
-  
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkgami&show_icons=true&locale=en&layout=compact" alt="abkgami" /></p> -->
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abkgami" alt="abkgami" /> </p> -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abkgami&show_icons=true&locale=en" alt="abkgami" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkgami&" alt="abkgami" /></p> -->
