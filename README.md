@@ -10,30 +10,29 @@
     - Badges                 : https://shields.io
     - Stats cards            : https://github.com/anuraghazra/github-readme-stats
     - Streak stats           : https://github.com/DenverCoder1/github-readme-streak-stats
-    - Trophies               : https://github.com/ryo-ma/github-profile-trophy
-    - Activity graph         : https://github.com/Ashutosh00710/github-readme-activity-graph
+    - Contribution snake     : https://github.com/Platane/snk (needs .github/workflows/snake.yml)
 -->
 
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e2327&height=200&section=header&text=Yahaya%20Abubakar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20React%20Native%20%C2%B7%20Rust&descSize=18&descAlignY=60" alt="Yahaya Abubakar banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:34d399&height=200&section=header&text=Yahaya%20Abubakar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20React%20Native%20%C2%B7%20Rust&descSize=18&descAlignY=60" alt="Yahaya Abubakar banner" />
 
 <a href="https://github.com/abkGami">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+fast%2C+accessible+web+apps;Shipping+cross-platform+mobile+with+React+Native;Exploring+Web3+and+smart+contracts+in+Rust;Open+to+collaborations+and+remote+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=059669&center=true&vCenter=true&width=620&lines=Building+fast%2C+accessible+web+apps;Shipping+cross-platform+mobile+with+React+Native;Exploring+Web3+and+smart+contracts+in+Rust;Open+to+collaborations+and+remote+roles" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abks--portfolio.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://abks-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abkgami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abkgami/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abks--portfolio.vercel.app-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://abks-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abkgami-047857?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abkgami/)
 [![X](https://img.shields.io/badge/X-@abkgami-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abkgami)
 <!-- TODO: add your email. Replace you@example.com, then remove this comment's arrows.
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=0e75b6&style=flat)
-[![Followers](https://img.shields.io/github/followers/abkGami?label=Followers&style=flat&color=0e75b6&logo=github)](https://github.com/abkGami?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=abkgami&label=Profile%20views&color=059669&style=flat)
+[![Followers](https://img.shields.io/github/followers/abkGami?label=Followers&style=flat&color=059669&logo=github)](https://github.com/abkGami?tab=followers)
 
 </div>
 
@@ -83,16 +82,16 @@ I'm **Yahaya Abubakar**, a full-stack developer with a strong frontend focus. I 
 <div align="center">
 
 <a href="https://github.com/abkGami/nft-marketplace">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=nft-marketplace&theme=transparent&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&hide_border=false&border_color=30363d" alt="nft-marketplace" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=nft-marketplace&theme=transparent&title_color=059669&text_color=8b949e&icon_color=059669&hide_border=false&border_color=30363d" alt="nft-marketplace" />
 </a>
 <a href="https://github.com/abkGami/Metaplex-Smart-Contract-on-Codigo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=Metaplex-Smart-Contract-on-Codigo&theme=transparent&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&hide_border=false&border_color=30363d" alt="Metaplex-Smart-Contract-on-Codigo" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=Metaplex-Smart-Contract-on-Codigo&theme=transparent&title_color=059669&text_color=8b949e&icon_color=059669&hide_border=false&border_color=30363d" alt="Metaplex-Smart-Contract-on-Codigo" />
 </a>
 <a href="https://github.com/abkGami/privy-from-youtube">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=privy-from-youtube&theme=transparent&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&hide_border=false&border_color=30363d" alt="privy-from-youtube" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=privy-from-youtube&theme=transparent&title_color=059669&text_color=8b949e&icon_color=059669&hide_border=false&border_color=30363d" alt="privy-from-youtube" />
 </a>
 <a href="https://github.com/abkGami/Asiri">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=Asiri&theme=transparent&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&hide_border=false&border_color=30363d" alt="Asiri" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abkGami&repo=Asiri&theme=transparent&title_color=059669&text_color=8b949e&icon_color=059669&hide_border=false&border_color=30363d" alt="Asiri" />
 </a>
 
 </div>
@@ -112,24 +111,22 @@ I'm **Yahaya Abubakar**, a full-stack developer with a strong frontend focus. I 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abkGami&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6&hide_border=false&border_color=30363d" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkGami&layout=compact&langs_count=6&theme=transparent&title_color=0e75b6&text_color=8b949e&hide_border=false&border_color=30363d" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abkGami&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=059669&text_color=8b949e&icon_color=059669&hide_border=false&border_color=30363d" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkGami&layout=compact&langs_count=6&theme=transparent&title_color=059669&text_color=8b949e&hide_border=false&border_color=30363d" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=abkGami&theme=transparent&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&hide_border=false&border=30363d" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=abkGami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=abkGami&theme=transparent&ring=059669&fire=059669&currStreakLabel=059669&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&hide_border=false&border=30363d" alt="GitHub streak" />
 
 </div>
 
-<details>
-<summary><b>📈 Contribution activity graph</b></summary>
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abkGami&bg_color=00000000&color=8b949e&line=0e75b6&point=0e75b6&area=true&area_color=0e75b6&hide_border=true&title_color=0e75b6" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abkGami/abkGami/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abkGami/abkGami/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abkGami/abkGami/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-</details>
 
 ---
 
@@ -156,6 +153,6 @@ I'm open to **remote roles, freelance projects, open-source collaboration, and t
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0e75b6&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:059669,100:064e3b&height=100&section=footer" alt="footer" />
 
 </div>
